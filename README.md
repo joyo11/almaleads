@@ -49,8 +49,7 @@ A modern Next.js application for managing immigration case leads with a public a
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd alma-leads
+git clone https://github.com/joyo11/almaleads
 ```
 
 ### 2. Install Dependencies
@@ -69,7 +68,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ````
 
-## 🧪 Testing
+## 🧪 Testing (Optional)
 
 Run the test suite:
 
